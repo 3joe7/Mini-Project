@@ -1,0 +1,8 @@
+#spotify_token = "BQCkUQzuKiRM8qSKkPVj3587Vz4Fqlx1l8z0whQYxX-SzJCmL7iP-merWHWBFnufKJX-V9yHGtNJWvZwveDtjIzTfSzEUbl8fhj88s4IsMHx1mELeHNw8uKoCxW8gjPiyR3OKjOc0EhdqrqxjwpI8JqjDTB-r0olLvgDBb8agMhTu5UmUshY843sxA5ID3hjKJJ0QHU"
+spotify_user_id = "3_joe_7"
+
+discover_weekly_id = "37i9dQZEVXcFguGKUibZsW"
+
+refresh_token = "AQA7PmneRS1pJ8KiRZmSqOSj-3ODMqyNZ9DRsw_Br-E5qAD2gmyyeeUYl7C3UNPGqW6dDZwvRNvMAuJ3lzE_gNxJnZTLcuPkXQNvxvBlqijpwezAc3F16cDde3FJ9x3-N0o"
+
+base_64 = "ZmM1NDVjMWFjNmZiNGZlYjkxZjQ1Yzg5Y2FiZDdlMzA6NWUyNzRlODg0MDE4NGU0OTkyOTJkNzM4Njg0ZDRhODM="
